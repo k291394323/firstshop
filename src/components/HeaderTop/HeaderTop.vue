@@ -4,7 +4,7 @@
       <span class="header_title">
         <span class="header_title_text ellipsis">{{title}}</span>
       </span>
-    <slot neme="right"></slot>
+    <slot name="right"></slot>
     </header>
 </template>
 
