@@ -4,7 +4,7 @@
     <section class="order_no_login">
       <img src="./images/order/person.png">
       <h3>登录后查看外卖订单</h3>
-      <button>立即登陆</button>
+      <button>登陆</button>
     </section>
   </div>
 </template>
